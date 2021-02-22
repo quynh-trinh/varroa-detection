@@ -6,3 +6,4 @@ sklearn
 keras
 pillow
 scikit-image
+opencv-python
